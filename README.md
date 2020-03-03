@@ -22,13 +22,20 @@
 - Linkedin: [Nela Komane](https://www.linkedin.com/in/nela-komane-8866b9192/)
 
 
-## 🤝 Contributing
+## Getting Started
 
-Contributions, issues and feature requests are welcome! Start by:
-*Forking the project
-*Cloning the project to your local machine
-*`cd` into the project directory
-*Run `git checkout -b your-branch-name`
-*Make your contributions
-*Push your branch up to your forked repository
-*Open a Pull Request with a detailed description to the development branch of the original project for a review
+You may use the following steps to get a local copy:
+
+-Clone project to your local machine 
+
+-cd to the project directory 
+
+-Open project in IDE Open Live Preview through IDE or
+
+-use localhost to view the project in your browser
+
+**Contributing**
+
+You are welcome to make contributions to the repository. Contributions may be made through issues comments and feature requests.
+
+You may find the issues page [here](https://github.com/nellencr/Landing-page/issues)
